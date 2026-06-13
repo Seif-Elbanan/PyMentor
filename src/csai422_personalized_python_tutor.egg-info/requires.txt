@@ -1,0 +1,22 @@
+langgraph<2,>=0.4
+pydantic<3,>=2.7
+requests<3,>=2.31
+python-dotenv<2,>=1.0
+
+[demo]
+streamlit<2,>=1.35
+
+[docs]
+python-docx<2,>=1.1
+Pillow<13,>=10
+
+[eval]
+ragas<1,>=0.2
+datasets<5,>=3
+langchain-ollama<1,>=0.3
+
+[eval:python_version < "3.10"]
+eval-type-backport
+
+[test]
+pytest<9,>=8

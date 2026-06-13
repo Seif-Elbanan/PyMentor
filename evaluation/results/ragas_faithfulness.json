@@ -1,0 +1,99 @@
+{
+  "provider": "ollama/qwen3:4b",
+  "format_version": 2,
+  "cases": [
+    {
+      "id": "L01",
+      "score": 0.8571428571428571,
+      "error": ""
+    },
+    {
+      "id": "L02",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "L03",
+      "score": 0.8571428571428571,
+      "error": ""
+    },
+    {
+      "id": "L04",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "L05",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "L06",
+      "score": 0.0,
+      "error": ""
+    },
+    {
+      "id": "L07",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "L08",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "L09",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "L10",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "G01",
+      "score": 0.75,
+      "error": ""
+    },
+    {
+      "id": "G02",
+      "score": 0.875,
+      "error": ""
+    },
+    {
+      "id": "G03",
+      "score": 0.75,
+      "error": ""
+    },
+    {
+      "id": "E01",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "E02",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "E03",
+      "score": 1.0,
+      "error": ""
+    },
+    {
+      "id": "E04",
+      "score": 0.7142857142857143,
+      "error": ""
+    },
+    {
+      "id": "E05",
+      "score": 0.75,
+      "error": ""
+    }
+  ],
+  "faithfulness": 0.8640873015873016,
+  "scored_cases": 18,
+  "attempted_cases": 18
+}

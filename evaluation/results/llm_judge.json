@@ -1,0 +1,263 @@
+{
+  "provider": "ollama",
+  "rubric_version": 3,
+  "cases": [
+    {
+      "id": "L01",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L02",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L03",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L04",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L05",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L06",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L07",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L08",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L09",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "L10",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "Q01",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "Q02",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "Q03",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "Q04",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "Q05",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "G01",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "G02",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "G03",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "G04",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "G05",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "G06",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "S01",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "S02",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "S03",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "P01",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "P02",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "P03",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "E01",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "E02",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "E03",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "E04",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    },
+    {
+      "id": "E05",
+      "scope_compliance": 1,
+      "clarity": 1,
+      "groundedness": 1,
+      "hint_first": 1,
+      "error": ""
+    }
+  ],
+  "pedagogical_compliance_rate": 1.0
+}

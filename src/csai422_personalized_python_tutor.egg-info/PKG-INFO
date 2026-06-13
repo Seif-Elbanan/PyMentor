@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: csai422-personalized-python-tutor
+Version: 1.0.0
+Summary: A LangGraph personalized Python tutor with advanced RAG, memory, guardrails, and evaluation.
+Requires-Python: >=3.9
+Requires-Dist: langgraph<2,>=0.4
+Requires-Dist: pydantic<3,>=2.7
+Requires-Dist: requests<3,>=2.31
+Requires-Dist: python-dotenv<2,>=1.0
+Provides-Extra: demo
+Requires-Dist: streamlit<2,>=1.35; extra == "demo"
+Provides-Extra: eval
+Requires-Dist: ragas<1,>=0.2; extra == "eval"
+Requires-Dist: datasets<5,>=3; extra == "eval"
+Requires-Dist: langchain-ollama<1,>=0.3; extra == "eval"
+Requires-Dist: eval-type-backport; python_version < "3.10" and extra == "eval"
+Provides-Extra: test
+Requires-Dist: pytest<9,>=8; extra == "test"
+Provides-Extra: docs
+Requires-Dist: python-docx<2,>=1.1; extra == "docs"
+Requires-Dist: Pillow<13,>=10; extra == "docs"

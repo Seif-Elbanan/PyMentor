@@ -1,0 +1,44 @@
+[
+  {
+    "id": "beginner",
+    "ability": "beginner",
+    "pre_answers": {
+      "range_stop": "4",
+      "print_return": "print gives the value back",
+      "assignment": "they are the same"
+    },
+    "post_answers": {
+      "range_stop": "3",
+      "print_return": "return gives the value to the caller",
+      "assignment": "= assigns and == compares"
+    }
+  },
+  {
+    "id": "intermediate",
+    "ability": "intermediate",
+    "pre_answers": {
+      "range_stop": "3",
+      "print_return": "return gives the value to the caller",
+      "assignment": "both compare values"
+    },
+    "post_answers": {
+      "range_stop": "3",
+      "print_return": "return gives the value to the caller",
+      "assignment": "= assigns and == compares"
+    }
+  },
+  {
+    "id": "advanced",
+    "ability": "advanced",
+    "pre_answers": {
+      "range_stop": "3",
+      "print_return": "return gives the value to the caller",
+      "assignment": "= assigns and == compares"
+    },
+    "post_answers": {
+      "range_stop": "3",
+      "print_return": "return gives the value to the caller",
+      "assignment": "= assigns and == compares"
+    }
+  }
+]

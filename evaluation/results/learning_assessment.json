@@ -1,0 +1,33 @@
+{
+  "personas": [
+    {
+      "persona": "beginner",
+      "pre_score": 0.0,
+      "post_score": 1.0,
+      "delta": 1.0,
+      "detected_misconceptions": [
+        "range includes the stop value",
+        "print and return have the same purpose",
+        "assignment and equality are interchangeable"
+      ]
+    },
+    {
+      "persona": "intermediate",
+      "pre_score": 0.667,
+      "post_score": 1.0,
+      "delta": 0.333,
+      "detected_misconceptions": [
+        "assignment and equality are interchangeable"
+      ]
+    },
+    {
+      "persona": "advanced",
+      "pre_score": 1.0,
+      "post_score": 1.0,
+      "delta": 0.0,
+      "detected_misconceptions": []
+    }
+  ],
+  "misconception_detection_accuracy": 1.0,
+  "method": "Controlled labeled answers measure whether the assessment layer recognizes three course misconceptions before and after targeted tutoring."
+}

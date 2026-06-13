@@ -1,0 +1,234 @@
+{
+  "retrieval": {
+    "cases": [
+      {
+        "id": "L01",
+        "baseline": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L02",
+        "baseline": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L03",
+        "baseline": {
+          "context_precision": 0.0,
+          "context_recall": 0.0
+        },
+        "advanced": {
+          "context_precision": 0.0,
+          "context_recall": 0.0
+        }
+      },
+      {
+        "id": "L04",
+        "baseline": {
+          "context_precision": 0.75,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.75,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L05",
+        "baseline": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L06",
+        "baseline": {
+          "context_precision": 0.0,
+          "context_recall": 0.0
+        },
+        "advanced": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L07",
+        "baseline": {
+          "context_precision": 0.75,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L08",
+        "baseline": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.75,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L09",
+        "baseline": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "L10",
+        "baseline": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "Q01",
+        "baseline": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "Q02",
+        "baseline": {
+          "context_precision": 0.25,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "Q03",
+        "baseline": {
+          "context_precision": 0.3333333333333333,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.3333333333333333,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "Q04",
+        "baseline": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "Q05",
+        "baseline": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "E01",
+        "baseline": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "E02",
+        "baseline": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "E03",
+        "baseline": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 1.0,
+          "context_recall": 1.0
+        }
+      },
+      {
+        "id": "E04",
+        "baseline": {
+          "context_precision": 0.0,
+          "context_recall": 0.0
+        },
+        "advanced": {
+          "context_precision": 0.0,
+          "context_recall": 0.0
+        }
+      },
+      {
+        "id": "E05",
+        "baseline": {
+          "context_precision": 0.5,
+          "context_recall": 1.0
+        },
+        "advanced": {
+          "context_precision": 0.75,
+          "context_recall": 1.0
+        }
+      }
+    ],
+    "baseline": {
+      "context_precision": 0.5166666666666666,
+      "context_recall": 0.85
+    },
+    "advanced": {
+      "context_precision": 0.5541666666666666,
+      "context_recall": 0.9
+    }
+  }
+}
